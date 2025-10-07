@@ -28,3 +28,9 @@ También incluye un **modo cliente**, desde el cual los pacientes pueden:
 Una de las funcionalidades clave en desarrollo consiste en:
 
 > Utilizar una **grabadora acoplada al teléfono móvil** para registrar sesiones entre fisioterapeuta y paciente. El audio será transcrito automáticamente mediante **IA** y luego clasificado en secciones relevantes para generar o complementar el diagnóstico clínico.
+
+
+## Dia 7 de octubre de 2025:
+
+> Aún no hemos hecho avances sobre el proyecto, empezamos a hacer la presentación pero tampoco nos dicen nada aparte de lo dicho.  
+He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendiendo a usar la herramienta **n8n**.
