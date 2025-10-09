@@ -34,3 +34,6 @@ Una de las funcionalidades clave en desarrollo consiste en:
 
 > Aún no hemos hecho avances sobre el proyecto, empezamos a hacer la presentación pero tampoco nos dicen nada aparte de lo dicho.  
 He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendiendo a usar la herramienta **n8n**.
+
+## Continuación
+> Creamos el agente telefonico con IA 
