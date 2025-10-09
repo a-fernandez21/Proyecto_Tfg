@@ -37,3 +37,4 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 
 ## Continuación
 > Creamos el agente telefonico con IA 
+> Tareas de investigación sobre documentos de fisioterapia para poder identificar palabras claves para hacer como cortes en la grabación.
