@@ -38,3 +38,8 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 ## Continuación
 > Creamos el agente telefonico con IA 
 > Tareas de investigación sobre documentos de fisioterapia para poder identificar palabras claves para hacer como cortes en la grabación.
+
+> Subí el avance del ante proyecto. Aún hay cosas que no nos han dicho como las clases para poder hacer diagramas, la arquitectura que va a seguir. De momento estamos peleando de como obtener un documento con x formato. 
+
+> Aqui te dejo el enlace del curso que hice de flutter 
+> https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
