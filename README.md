@@ -43,3 +43,12 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 
 > Aqui te dejo el enlace del curso que hice de flutter 
 > https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
+
+## 15 de octubre
+> Cambiado el agente telefonico a lo que podria ser el definitivo (lo actualizo en el anteproyecto).
+> Presentación del prototipo de pantallas que tenemos que hacer (mi parte es el front,tambien lo actualizo en el anteproyecto)
+> Investigación de poder hacer la transcripción en vivo porque cuando nos pasaron como querian que fuese las pantallas de la aplicación, resulta que querían que al grabar, que se fuera mostrando el texto en vivo. Y entonces hemos encontrado un problema. Lo contemplo en el anteproyecto. Me ha dicho Chiu que en principio para la próxima semana (semana del 20 al 26) empezariamos a tocar código de las pantallas. Mientras tanto estamos investigando que cosas nos podría hacer falta o dar problemas.
+> Entre hoy y ayer, los dos que nos vamos a encargar del front, hemos hecho una de prueba de boton de grabar para comprobar como grabar con el micro y guardar los archivos en .mp3, yo hice el botón que utiliza el micro para grabar y que guardase los archivos (con ayuda de IA, para la animación y para utilizar el microfono del movil)
+[Repo de la prueba del botón](https://github.com/a-fernandez21/prueba_boton_grabar)
+
+
