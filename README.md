@@ -57,5 +57,5 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 > Añadido los botones con las nuevas funcionalidades
 > El sistema de las marcas en los audios
 > El widget flotante al minimizar la aplicación (aun no esta acabada)
-> El proyecto en sí es muy pequeño por la cantidad de personas que somos en él (4), dos son para back y mi compañero y yo para front y las pantallas son las que están descritas en el anteproyecto. 
+> El proyecto en sí es muy pequeño por la cantidad de personas que somos en él (4), dos son para back y mi compañero y yo para front y las pantallas son las que están descritas en el anteproyecto. El martes le tengo que enseñar el documento (anteproyecto) a Chiu que me lo ha pedido para poder corregir y mirarlo. 
 
