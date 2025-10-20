@@ -54,3 +54,8 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 ## Continuación 
 
 > De momento, vamos a hacer las pantallas descritas en el anteproyecto como prueba ya que aun no lo vamos hacer en la aplicación final.
+> Añadido los botones con las nuevas funcionalidades
+> El sistema de las marcas en los audios
+> El widget flotante al minimizar la aplicación (aun no esta acabada)
+> El proyecto en sí es muy pequeño por la cantidad de personas que somos en él (4), dos son para back y mi compañero y yo para front y las pantallas son las que están descritas en el anteproyecto. 
+
