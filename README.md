@@ -51,4 +51,6 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 > Entre hoy y ayer, los dos que nos vamos a encargar del front, hemos hecho una de prueba de boton de grabar para comprobar como grabar con el micro y guardar los archivos en .mp3, yo hice el botón que utiliza el micro para grabar y que guardase los archivos (con ayuda de IA, para la animación y para utilizar el microfono del movil)
 [Repo de la prueba del botón](https://github.com/a-fernandez21/prueba_boton_grabar)
 
+## Continuación 
 
+> De momento, vamos a hacer las pantallas descritas en el anteproyecto como prueba ya que aun no lo vamos hacer en la aplicación final.
