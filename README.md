@@ -59,3 +59,8 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 > El widget flotante al minimizar la aplicación (aun no esta acabada)
 > El proyecto en sí es muy pequeño por la cantidad de personas que somos en él (4), dos son para back y mi compañero y yo para front y las pantallas son las que están descritas en el anteproyecto. El martes le tengo que enseñar el documento (anteproyecto) a Chiu que me lo ha pedido para poder corregir y mirarlo. 
 
+## Semana 21/10 al 28/10
+
+> Le he enseñado el código de los prototipos de las pantallas a Chiu y a Erick, y nos han dado el ok para implementarlo en la aplicación final.
+> Nos van a explicar como estrcutruan ellos los proyectos que es con MVC y su forma de hacer commits y comentarios.
+> El código de las pantallas, que es el github [Repo de la prueba del botón](https://github.com/a-fernandez21/prueba_boton_grabar) lo tenemos que refactorizar con todo eso.
