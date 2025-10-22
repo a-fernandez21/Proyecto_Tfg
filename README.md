@@ -64,3 +64,4 @@ He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendie
 > Le he enseñado el código de los prototipos de las pantallas a Chiu y a Erick, y nos han dado el ok para implementarlo en la aplicación final.
 > Nos van a explicar como estrcutruan ellos los proyectos que es con MVC y su forma de hacer commits y comentarios.
 > El código de las pantallas, que es el github [Repo de la prueba del botón](https://github.com/a-fernandez21/prueba_boton_grabar) lo tenemos que refactorizar con todo eso.
+> nos han añadido a los cuatro en el repo del proyecto de Fisiomap como colaboradores. Tenemos que hacer una rama que es donde vamos a trabajar. (te pongo esto para que sepas que estoy haciendo cosas con github).
