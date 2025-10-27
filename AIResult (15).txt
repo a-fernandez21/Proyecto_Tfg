@@ -1,0 +1,158 @@
+### HISTORIA CLÍNICA DE FISIOTERAPIA
+
+### SECCIÓN_1 :: IDENTIFICACIÓN DEL PACIENTE
+Fecha de la consulta:: [NO ESPECIFICADA - INFERIR DE SISTEMA]  
+Nombre del paciente:: Sean  
+Edad:: [NO MENCIONADO]  
+Sexo:: F [INFERIDO de antecedentes quirúrgicos: mastectomía por cáncer de mama]  
+Ocupación / Actividad principal:: Secretaria a tiempo completo en una agencia inmobiliaria  
+Lugar de atención:: Consulta [INFERIDO de contexto de evaluación física]  
+Fisioterapeuta responsable:: John [INFERIDO de transcripción: "I'm John, I'm one of the physio team"]  
+
+### SECCIÓN_2 :: MOTIVO DE CONSULTA
+Síntoma principal:: Dolor y rigidez  
+Localización:: Hombro izquierdo, zona superior [DESCRITA como "top of the shoulder"]  
+Tiempo de evolución:: 2-3 meses  
+Causa aparente:: No traumática - inicio insidioso sin factor desencadenante recordado  
+Limitaciones funcionales::  
+- Dificultad para elevar el brazo por encima de la cabeza (ej. cepillarse el pelo, alcanzar armarios)  
+- Incapacidad para nadar  
+- Dolor durante actividades de agilidad con el perro (correr y señalar)  
+- Alteración del sueño por dolor  
+Expectativas del paciente:: Reaseguro sobre la causa del dolor, ejercicios para rehabilitación, retorno a natación y agilidad con el perro  
+
+### SECCIÓN_3 :: HISTORIA DE LA ENFERMEDAD ACTUAL (HEA)
+Inicio y evolución:: Inicio insidioso hace 2-3 meses sin traumatismo o mecanismo desencadenante identificado. Evolución progresiva con aumento de dolor y rigidez, interfiriendo en actividades diarias y ocio. Paciente frustrada por recurrencia post-recuperación de cirugía reciente ("just starting to get back to normal and then my shoulder starts hurting again").  
+Características del dolor o disfunción::  
+  Intensidad (EVA 0–10):: 3/10 (ache constante), hasta 8/10 (dolor punzante tipo shock eléctrico)  
+  Tipo:: Sordo constante (dull ache) con episodios de dolor punzante tipo shock eléctrico (shooting pain, electric shock)  
+  Frecuencia:: Constante con exacerbaciones intermitentes  
+  Irradiación:: [NO MENCIONADA]  
+Factores agravantes::  
+- Elevación del brazo por encima de la cabeza (overhead activities: cepillarse el pelo, alcanzar armarios)  
+- Aumento de actividad general con el hombro  
+- Actividades deportivas (natación, agilidad con perro: correr y señalar)  
+Factores atenuantes::  
+- Botella de agua caliente por la noche (alivio nocturno)  
+- Paracetamol (alivio parcial)  
+Impacto funcional::  
+- Sueño: Interrupciones frecuentes por dolor  
+- Actividades diarias: Dificultad en tareas overhead y cuidado personal (cepillado)  
+- Ocio: Incapacidad para natación (3-4 veces/semana previamente) y agilidad con perro (competencias dolorosas)  
+- Laboral: [NO ESPECIFICADO, pero ocupación de oficina podría no agravarlo directamente]  
+Tratamientos previos::  
+- Paracetamol (dosis no especificada): Alivio parcial de síntomas  
+Comentarios subjetivos:: Paciente busca reaseguro ("hoping it's nothing serious"), muestra frustración por impacto post-cirugía, motivación alta para ejercicios y retorno a actividades (natación, agilidad con perro). No evidencia kinesiofobia evidente en transcripción.  
+
+### SECCIÓN_4 :: ANTECEDENTES PERSONALES Y FAMILIARES
+Antecedentes médicos relevantes::  
+- Cáncer de mama diagnosticado y tratado con mastectomía hace 5 meses [FACTOR DE RIESGO RELEVANTE para capsulitis adhesiva postquirúrgica]  
+- [NO SE MENCIONAN OTRAS COMORBILIDADES como DM, HTA o problemas reumáticos]  
+Antecedentes quirúrgicos:: Mastectomía (hace 5 meses) por cáncer de mama  
+Medicación actual::  
+- Paracetamol (dosis y frecuencia no especificadas): Para manejo del dolor  
+- [NO SE MENCIONAN ESTEROIDES O ANTICOAGULANTES; paciente rechaza ibuprofeno inicialmente pero abierta a explorarlo]  
+Hábitos de vida::  
+- Actividad física: Natación 3-4 veces/semana (interrumpida), agilidad con perro (competencias, ahora dolorosa)  
+- [NO SE MENCIONAN TABACO, ALCOHOL O SUEÑO DETALLADAMENTE, aunque sueño alterado por dolor]  
+Antecedentes familiares:: [NO MENCIONADOS]  
+
+### SECCIÓN_5 :: EXAMEN FÍSICO / OBJETIVO
+Inspección y postura:: [NO DESCRITA EN TRANSCRIPCIÓN]  
+Rango de movimiento (ROM)::  
+  Flexión:: Limitada en activo izquierdo (estiff y dolorosa con sobrepresión); normal en derecho [GRADOS NO CUANTIFICADOS, DESCRIPCIÓN CUALITATIVA: "that's about it"]  
+  Abducción:: Limitada en activo izquierdo (resistencia significativa, dolorosa con sobrepresión); normal en derecho ["quite a lot of resistance"]  
+  Rotación interna:: Limitada y dolorosa en izquierdo (mano detrás de la espalda: uncomfortable, restricted vs. derecho)  
+  Rotación externa:: Limitada y dolorosa en izquierdo (posición de brazos: stiff and painful, restricted vs. derecho)  
+Fuerza muscular:: Normal o sin dolor significativo en pruebas (empuje lateral, flexión de codo, extensión); escala no formal [DESCRIPCIÓN: "not too painful", "feels okay"]  
+Palpación:: [NO REALIZADA O NO DESCRITA EN TRANSCRIPCIÓN]  
+Test específicos:: [NO REALIZADOS O NO DESCRITOS; solo ROM y fuerza básica]  
+Examen neurológico::  
+- Movimientos cervicales: Normales (rotación, flexión/extensión, sin dolor)  
+- Pruebas de nervios: Extensión de codo sin dolor  
+- Ausencia de parestesias, entumecimiento o cambios sensoriales [PACIENTE NIEGA]  
+Otras observaciones::  
+- Hombro derecho normal en todos los movimientos  
+- Cuello y extremidad superior sin dolor en pruebas adicionales  
+- [NOTA: Patrón de restricción global en ROM activo izquierdo sugiere afectación capsular; no se evaluaron end-feel ni ROM pasivo cuantificado]  
+
+### SECCIÓN_6 :: DIAGNÓSTICO FISIOTERAPÉUTICO
+Diagnóstico principal:: Capsulitis adhesiva del hombro izquierdo (frozen shoulder, estadio inicial de congelación) [DIAGNÓSTICO EXPRESADO POR FISIOTERAPEUTA EN TRANSCRIPCIÓN]  
+Diagnósticos diferenciales::  
+- Tendinopatía postquirúrgica o síndrome de impingement (dado historia de mastectomía y dolor overhead)  
+- Artrosis glenohumeral secundaria a inmovilización postquirúrgica  
+Clasificación funcional:: Moderada  
+- Dolor EVA 3-8/10  
+- Restricción significativa de ROM en todos los planos (activo limitado, doloroso)  
+- Impacto en AVD y ocio (natación, agilidad)  
+Razonamiento clínico:: Mujer [INFERIDO] con historia de mastectomía hace 5 meses por cáncer de mama, presenta cuadro de 2-3 meses de dolor y rigidez progresiva en hombro izquierdo de inicio insidioso, sin traumatismo. Hallazgos objetivos: restricción global de ROM activo (flexión, abducción, rotaciones internas/externas) con dolor y resistencia, comparado con lado derecho normal; fuerza preservada sin déficits neurológicos. Patrón compatible con inflamación y acortamiento capsular (fases: congelación con pérdida de movimiento, no daño estructural). Factor de riesgo clave: cirugía reciente de mama (inmovilización postoperatoria favorece capsulitis, prevalencia aumentada en oncología). Ausencia de irradiación o síntomas sensoriales descarta radiculopatía cervical. [Según Guía de Diagnóstico Fisioterapéutico (CIF), componente b (funciones corporales): deficiencia moderada en b710 (movilidad de una articulación) y b730 (fuerza muscular de extremidad superior); d (actividades): limitación moderada en d4450 (alcanzar) y d430 (levantar/mover objetos). Enfoque biopsicosocial: barreras personales (frustración post-cáncer) y ambientales (actividades overhead en ocio/laboral). Pronóstico autolimitado pero prolongado (12-18 meses), con intervención precoz favorable].  
+
+### SECCIÓN_7 :: PLAN TERAPÉUTICO
+Objetivos a corto plazo (1–3 semanas)::  
+  - Reducir dolor en reposo a EVA <4/10 y mejorar sueño (menos interrupciones)  
+  - Aumentar ROM de flexión y abducción activa +20-30° (reducir rigidez inicial)  
+  - Educar sobre condición y autocuidado (reaseguro)  
+Objetivos a largo plazo (3–6 meses)::  
+  - Recuperar ROM funcional completo (flexión/abducción >150°, rotaciones normales)  
+  - Retorno a natación 3-4 veces/semana y agilidad con perro sin dolor (EVA <3/10)  
+  - Independencia en AVD overhead sin limitaciones  
+Intervenciones programadas::  
+  - Ejercicios terapéuticos en casa: Pendulares, asistidos para ROM (a mostrar en consulta)  
+  - Termoterapia: Calor (botella de agua caliente) antes de ejercicios  
+  - Manejo farmacológico: Continuar paracetamol; explorar ibuprofeno (antiinflamatorio) con farmacéutico  
+  - Opcional posterior: Inyección de esteroides si no mejoría (para control inflamatorio)  
+Frecuencia y duración::  Ejercicios diarios en casa; seguimiento en 3 semanas (1 sesión cara a cara para progresión) [SUGERENCIA ESTÁNDAR: 2-3 sesiones/semana iniciales si adherencia baja]  
+Educación al paciente:: Explicación de capsulitis adhesiva: Inflamación capsular sin daño, fases (congelación 2-9 meses, congelado 4-12 meses, descongelación 5-26 meses); autolimitada pero lenta (12-18 meses); no trauma; relación con cirugía reciente. Diferencia dolor vs. daño; adherencia a ejercicios clave. Consultar farmacéutico para ibuprofeno.  
+Recomendaciones domiciliarias::  
+- Realizar ejercicios prescritos diariamente (recordatorio por email)  
+- Aplicar calor 10-15 min antes de ejercicios y nocturno  
+- Evitar sobrecarga overhead inicial; progresar gradualmente  
+- Monitorear síntomas; contactar si empeora (oficina de reservas disponible)  
+
+### SECCIÓN_8 :: SEGUIMIENTO Y EVOLUCIÓN
+Fecha de reevaluación:: [APROX. 3 SEMANAS - PENDIENTE DE PROGRAMAR]  
+Indicadores de progreso::  
+- Dolor (EVA en reposo/actividad y sueño)  
+- ROM (flexión, abducción, rotaciones; comparativo bilateral)  
+- Función (capacidad para overhead, natación simulada, agilidad)  
+- Adherencia a ejercicios (diario sugerido)  
+Adherencia al tratamiento:: [PENDIENTE DE EVALUAR - PRIMERA CONSULTA; paciente motivada]  
+Cambios en el plan:: [NO APLICA - PRIMERA CONSULTA; ajustar en seguimiento basado en progreso]  
+Pronóstico:: Favorable con adherencia  
+- Justificación: Condición autolimitada; intervención precoz (ejercicios + calor) acelera fases; factor positivo: motivación y ausencia de comorbilidades adicionales. Factor reservado: Historia oncológica reciente puede prolongar recuperación (mayor riesgo de rigidez post-inmovilización). Esperar mejoría funcional en 3-6 meses, completa en 12-18. [Según Guía CIF: Facilitadores personales (motivación) superan barreras iniciales].  
+Criterios de alta::  
+- Dolor EVA <2/10 en reposo y <3/10 en actividad  
+- ROM >90% comparado con lado contralateral  
+- Retorno completo a natación y agilidad sin limitaciones  
+- Independencia en AVD; capacidad autónoma para ejercicios de mantenimiento  
+- Ausencia de interrupciones del sueño por dolor  
+
+### SECCIÓN_9 :: NOTAS ADICIONALES / OBSERVACIONES
+Aspectos emocionales o comunicativos::  
+- Frustración por impacto post-cáncer ("difficult time", "frustrating"); actitud colaborativa y motivada (acepta ejercicios y seguimiento)  
+- Busca reaseguro explícitamente; evaluar en seguimiento kinesiofobia o ansiedad relacionada con cáncer  
+- Nivel de adherencia esperado alto basado en transcripción  
+Coordinación interdisciplinar::  
+- **RECOMENDACIÓN**: Coordinar con oncólogo o médico de familia para monitoreo post-mastectomía (descartar metástasis o efectos secundarios)  
+- Si no mejoría en 4-6 semanas: Valorar derivación para inyección de esteroides (disponible en servicio)  
+- [OPCIONAL]: Interconsulta con psicólogo si emerge distress emocional relacionado con cáncer y dolor crónico  
+Otros comentarios::  
+- **INFORMACIÓN INCOMPLETA**: Edad no mencionada [CRÍTICO: Influye en pronóstico de capsulitis (más común >50 años)]; sugerir preguntar en seguimiento  
+- **EVALUACIÓN PENDIENTE**: ROM pasivo cuantificado y end-feel (confirmar patrón capsular); test específicos de hombro (Neer, Hawkins para diferenciar impingement)  
+- **EVALUACIÓN PENDIENTE**: Escala funcional (ej. DASH para hombro) para baseline objetiva  
+- **ANAMNESIS INCOMPLETA - INFORMACIÓN PENDIENTE**:  
+  1. [CRÍTICO] Edad y comorbilidades adicionales (ej. diabetes, tiroides - riesgos para frozen shoulder). Pregunta sugerida: "¿Puede decirme su edad y si tiene otras condiciones de salud?" Relevancia: Pronóstico y plan personalizado.  
+  2. [IMPORTANTE] Detalles postquirúrgicos (inmovilización, radioterapia). Pregunta: "¿Hubo inmovilización prolongada o tratamientos adyuvantes post-mastectomía?" Relevancia: Explica posible etiología.  
+  3. [DESEABLE] Impacto laboral específico. Pregunta: "¿El dolor afecta su trabajo como secretaria?" Relevancia: Adaptar ergonomía.  
+- Transcripción en inglés; no fragmentos inaudibles, pero descripciones gestuales (ej. localización dolor) limitan precisión  
+
+**CONSIDERACIÓN CLÍNICA IMPORTANTE**:  
+Paciente con historia oncológica reciente: Mayor riesgo de capsulitis post-inmovilización (prevalencia 10-20% en sobrevivientes de mama). Monitorear hombro contralateral y signos de alarma (pérdida de peso, fatiga - posible recurrencia). Educación sobre evolución lenta para manejar expectativas.  
+
+### SECCIÓN_10 :: FIRMAS Y VALIDACIÓN
+Fisioterapeuta:: John [PENDIENTE DE CONFIRMACIÓN] Nº Colegiado:: [PENDIENTE]  
+Centro / Servicio:: [PENDIENTE - No especificado en transcripción]  
+Firma digital / Validación:: [PENDIENTE DE VALIDACIÓN POR FISIOTERAPEUTA RESPONSABLE]  
+
+**NOTA FINAL IMPORTANTE**:  
+Esta historia clínica ha sido generada automáticamente mediante inteligencia artificial a partir de la transcripción de audio de la consulta. El contenido debe ser revisado, completado y validado por el fisioterapeuta colegiado responsable antes de ser considerado documento clínico oficial. La responsabilidad profesional y legal del contenido final recae exclusivamente en el fisioterapeuta firmante.

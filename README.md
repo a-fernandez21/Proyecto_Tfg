@@ -1,68 +1,104 @@
 # FisioMap – Gestión Inteligente para Centros de Fisioterapia
 
-**FisioMap** es una aplicación multiplataforma diseñada para optimizar la gestión de centros de fisioterapia y mejorar la experiencia tanto de los fisioterapeutas como de los pacientes.
-
----
-
 ## Descripción General
 
-FisioMap busca ser una solución integral para clínicas de fisioterapia y profesionales independientes, permitiendo gestionar de forma centralizada:
+**FisioMap** es una aplicación multiplataforma diseñada para optimizar la gestión de centros de fisioterapia y mejorar la experiencia tanto de fisioterapeutas como de pacientes. Esta solución integral está pensada para clínicas de fisioterapia y profesionales independientes.
 
-- Citas con pacientes
-- Diagnósticos médicos
-- Historial clínico
-- Pagos y facturación
-- Servicios y tratamientos ofrecidos
+## Características Principales
 
-También incluye un **modo cliente**, desde el cual los pacientes pueden:
+### Para Fisioterapeutas
+- Gestión centralizada de citas con pacientes
+- Administración de diagnósticos médicos
+- Mantenimiento de historial clínico completo
+- Sistema de pagos y facturación
+- Gestión de servicios y tratamientos ofrecidos
 
-- Reservar y gestionar citas
-- Realizar pagos de manera segura
-- Comunicarse con el fisioterapeuta vía **videollamada**
-- Consultar su historial de diagnósticos y tratamientos
+### Para Pacientes (Modo Cliente)
+- Reserva y gestión de citas en línea
+- Realización de pagos de manera segura
+- Comunicación con fisioterapeutas vía videollamada
+- Acceso al historial de diagnósticos y tratamientos
+
+## Funcionalidades con Inteligencia Artificial
+
+La aplicación integra tecnologías de IA para mejorar la documentación clínica:
+
+- **Grabación y transcripción automática**: Utiliza una grabadora integrada en el dispositivo móvil para registrar sesiones entre fisioterapeuta y paciente
+- **Procesamiento inteligente**: El audio es transcrito automáticamente mediante IA
+- **Clasificación de contenido**: El texto transcrito se clasifica en secciones relevantes para generar o complementar el diagnóstico clínico
+- **Transcripción en tiempo real**: Visualización del texto mientras se realiza la grabación
+
+## Tecnologías Utilizadas
+
+- **Frontend**: Flutter & Dart
+- **Arquitectura**: Modelo-Vista-Controlador (MVC)
+- **Automatización**: n8n
+- **IA**: Agente telefónico con inteligencia artificial
+
+## Problemas Encontrados y Soluciones
+
+### Transcripción en Vivo
+
+#### Descripción del Problema
+Al trabajar con Whisper, el cual fue liberado hace tiempo y no contempla la opción de streaming, no es posible crear la transcripción en vivo haciendo streaming del audio y recuperar un streaming de texto para mostrar.
+
+#### Solución Propuesta
+El flujo propuesto será el siguiente:
+
+1. **Captura de audio**: El audio se envía a Whisper para transcribirlo a texto
+2. **Corrección automática**: La transcripción pasa por el agente de corrección, que ajusta errores y formato
+3. **Revisión del usuario**: El texto corregido se devuelve al usuario para su revisión
+4. **Almacenamiento**: El audio se almacena en la base de datos (.mp3, 64 kbps)
+5. **Generación de anamnesis**: Posteriormente, la transcripción se utilizará para generar y guardar la anamnesis correspondiente a la sesión con el cliente
+
+### Agente Telefónico
+
+#### Descripción del Problema
+El agente de Vapi resultó ser demasiado costoso, puesto que cobran 0,17€ por minuto de llamada más una prima adicional por llamada, lo que hace inviable su implementación en el proyecto.
+
+#### Solución Propuesta
+Se desestimó el agente telefónico y no se va a implementar en la versión actual del proyecto debido a los altos costos operativos.
+
+## Repositorios del Proyecto
+
+- [Prototipo de grabación](https://github.com/a-fernandez21/prueba_boton_grabar)
+- [Prototipos de pantallas](https://github.com/a-fernandez21/screens_fisiomap)
+
+## Estado del Desarrollo
+
+### Fase Actual: Desarrollo de MVP
+**Fecha objetivo**: 5 de noviembre de 2025
+
+### Equipo de Desarrollo
+- **Total**: 4 desarrolladores
+- **Frontend**: 2 desarrolladores
+- **Backend**: 2 desarrolladores
+
+
+### Octubre 2025
+
+#### 7 de octubre
+- Inicio del aprendizaje de Dart y Flutter
+- Investigación de la herramienta n8n
+- Inicio de la documentación del anteproyecto
+
+#### 15 de octubre
+- Finalización del agente telefónico con IA
+- Presentación de prototipos de pantallas
+- Investigación sobre transcripción en tiempo real
+- Desarrollo de prototipo de botón de grabación con funcionalidad de audio
+
+#### 21-28 de octubre
+- Aprobación de prototipos por parte del equipo de supervisión
+- Implementación de arquitectura MVC
+- Refactorización del código según estándares del proyecto
+- Incorporación como colaboradores en el repositorio principal
+- Preparación para desarrollo del MVP
+- **Prueba de transcripción con IA**: Se realizó una prueba de concepto transcribiendo un video utilizando inteligencia artificial para validar la funcionalidad de transcripción automática
+
+### Recursos de Aprendizaje
+
+- [Curso de Flutter & Dart](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
 ---
 
-## Implementación con Inteligencia Artificial
-
-Una de las funcionalidades clave en desarrollo consiste en:
-
-> Utilizar una **grabadora acoplada al teléfono móvil** para registrar sesiones entre fisioterapeuta y paciente. El audio será transcrito automáticamente mediante **IA** y luego clasificado en secciones relevantes para generar o complementar el diagnóstico clínico.
-
-
-## Dia 7 de octubre de 2025:
-
-> Aún no hemos hecho avances sobre el proyecto, empezamos a hacer la presentación pero tampoco nos dicen nada aparte de lo dicho.  
-He aprendido **Dart** con **Flutter** para el proyecto, y ahora estamos aprendiendo a usar la herramienta **n8n**.
-
-## Continuación
-> Creamos el agente telefonico con IA 
-> Tareas de investigación sobre documentos de fisioterapia para poder identificar palabras claves para hacer como cortes en la grabación.
-
-> Subí el avance del ante proyecto. Aún hay cosas que no nos han dicho como las clases para poder hacer diagramas, la arquitectura que va a seguir. De momento estamos peleando de como obtener un documento con x formato. 
-
-> Aqui te dejo el enlace del curso que hice de flutter 
-> https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
-
-## 15 de octubre
-> Cambiado el agente telefonico a lo que podria ser el definitivo (lo actualizo en el anteproyecto).
-> Presentación del prototipo de pantallas que tenemos que hacer (mi parte es el front,tambien lo actualizo en el anteproyecto)
-> Investigación de poder hacer la transcripción en vivo porque cuando nos pasaron como querian que fuese las pantallas de la aplicación, resulta que querían que al grabar, que se fuera mostrando el texto en vivo. Y entonces hemos encontrado un problema. Lo contemplo en el anteproyecto. Me ha dicho Chiu que en principio para la próxima semana (semana del 20 al 26) empezariamos a tocar código de las pantallas. Mientras tanto estamos investigando que cosas nos podría hacer falta o dar problemas.
-> Entre hoy y ayer, los dos que nos vamos a encargar del front, hemos hecho una de prueba de boton de grabar para comprobar como grabar con el micro y guardar los archivos en .mp3, yo hice el botón que utiliza el micro para grabar y que guardase los archivos (con ayuda de IA, para la animación y para utilizar el microfono del movil)
-[Repo de la prueba del botón](https://github.com/a-fernandez21/prueba_boton_grabar)
-
-## Continuación 
-
-> De momento, vamos a hacer las pantallas descritas en el anteproyecto como prueba ya que aun no lo vamos hacer en la aplicación final.
-> Añadido los botones con las nuevas funcionalidades
-> El sistema de las marcas en los audios
-> El widget flotante al minimizar la aplicación (aun no esta acabada)
-> El proyecto en sí es muy pequeño por la cantidad de personas que somos en él (4), dos son para back y mi compañero y yo para front y las pantallas son las que están descritas en el anteproyecto. El martes le tengo que enseñar el documento (anteproyecto) a Chiu que me lo ha pedido para poder corregir y mirarlo. 
-
-## Semana 21/10 al 28/10
-
-> Le he enseñado el código de los prototipos de las pantallas a Chiu y a Erick, y nos han dado el ok para implementarlo en la aplicación final.
-> Nos van a explicar como estructuran ellos los proyectos que es con MVC y su forma de hacer commits y comentarios.
-> El código de las pantallas, que es el github [Repo de la prueba del botón](https://github.com/a-fernandez21/prueba_boton_grabar) lo tenemos que refactorizar con todo eso.
-> nos han añadido a los cuatro en el repo del proyecto de Fisiomap como colaboradores. Tenemos que hacer una rama que es donde vamos a trabajar. (te pongo esto para que sepas que estoy haciendo cosas con github).
-> Nos han dado ya la charla, me pongo a hacer la estructuración del repositorio de las pantallas de prueba [Repo de la prueba de las pantallas](https://github.com/a-fernandez21/screens_fisiomap) y una vez refactorizado el código, lo aplicamos en el repo del proyecto final ( primero nos tienen que corregir nuestro código y luego implementarlo). Para el día cinco de noviembre le tenemos que entrar un MVP para mostrarselo a un cliente. 
