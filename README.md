@@ -98,7 +98,7 @@ Se desestimó el agente telefónico y no se va a implementar en la versión actu
 
 ### Recursos de Aprendizaje
 
-- [Curso de Flutter & Dart](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) y los proyectos del curso están ahí.
+- [Curso de Flutter & Dart](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) y los proyectos del curso están, los estoy subiendo a github y te pondré los links cuando estén todos.
 
 ---
 
