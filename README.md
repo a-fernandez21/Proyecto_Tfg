@@ -99,6 +99,13 @@ Se desestimó el agente telefónico y no se va a implementar en la versión actu
 ### Recursos de Aprendizaje
 
 - [Curso de Flutter & Dart](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) y los proyectos del curso están, los estoy subiendo a github y te pondré los links cuando estén todos.
+- Proyectos del Curso de flutter
+- [primer_proyecto](https://github.com/a-fernandez21/primer_proyecto.git)
+- [adv_basics](https://github.com/a-fernandez21/adv_basics.git)
+- [app_ahorro](https://github.com/a-fernandez21/app_ahorro.git)
+- [TODO'S](https://github.com/a-fernandez21/TODO-S.git)
+- [meals] (https://github.com/a-fernandez21/meals.git)
+- [shopping_list](https://github.com/a-fernandez21/shopping_list.git)
 
 ---
 
