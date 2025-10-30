@@ -109,3 +109,6 @@ Se desestimó el agente telefónico y no se va a implementar en la versión actu
 
 ---
 
+### 28-04 de noviembre 
+- Añadida la última prueba con la respuesta devuelta por n8n, ahora en formato HTML para permitir su almacenamiento según la solicitud de Erick.
+- Integrada la librería flutter_html_editor_enhanced para visualizar y editar el documento HTML directamente desde la aplicación.
