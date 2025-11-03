@@ -114,3 +114,4 @@ Se desestimó el agente telefónico y no se va a implementar en la versión actu
 - Integrada la librería flutter_html_editor_enhanced para visualizar y editar el documento HTML directamente desde la aplicación.
 - Integración de la pantallas al proyecto final.
 - A la espera de aprobación por parte de Brais (el que lleva fisiomap)
+- Añadido los enlaces del curso de Flutter
