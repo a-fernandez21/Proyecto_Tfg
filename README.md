@@ -59,6 +59,15 @@ El agente de Vapi resultó ser demasiado costoso, puesto que cobran 0,17€ por 
 #### Solución Propuesta
 Se desestimó el agente telefónico y no se va a implementar en la versión actual del proyecto debido a los altos costos operativos.
 
+#### Feedback cliente 
+
+#### Descripción del Problema 
+En el prototipo actual de la aplicación todavía no están configurados los endpoints. Sin embargo, Chiu nos ha indicado que es necesario implementar una forma de notificar al cliente cuando su anamnesis haya sido subida correctamente.
+
+#### Solución Propuesta
+Actualmente, tras grabar el audio, el proceso de subida a la base de datos puede tardar unos segundos, por lo que es importante mostrar un indicador de estado —por ejemplo, un modal o una notificación— que informe al usuario cuando la subida se haya completado con éxito.
+
+
 ## Repositorios del Proyecto
 
 - [Prototipo de grabación](https://github.com/a-fernandez21/prueba_boton_grabar)
@@ -115,3 +124,8 @@ Se desestimó el agente telefónico y no se va a implementar en la versión actu
 - Integración de la pantallas al proyecto final.
 - A la espera de aprobación por parte de Brais (el que lleva fisiomap)
 - Añadido los enlaces del curso de Flutter
+
+
+### 04-11 de noviembre
+- Añadir nuevas funcionalidades como es un wizard para explicarle al cliente que debe hacer con la grabadora. 
+- Eliminar funcionalidades como tipo de curso clinico a la hora de grabar por petición de chiu
