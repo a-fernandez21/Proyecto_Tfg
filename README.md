@@ -127,5 +127,8 @@ Actualmente, tras grabar el audio, el proceso de subida a la base de datos puede
 
 
 ### 04-11 de noviembre
-- Añadir nuevas funcionalidades como es un wizard para explicarle al cliente que debe hacer con la grabadora. 
-- Eliminar funcionalidades como tipo de curso clinico a la hora de grabar por petición de chiu
+- Creamos un widget desplegable que adapta su tamaño al scroll de la pantalla.
+- Eliminar funcionalidades como tipo de curso clinico a la hora de grabar por petición de Chiu.
+- Esperando a que configuren el archivo GoogleServices para poder probarlo en ios, ya que la grabadora donde más suele fallar es en IOS por temas de permiso y carpetas.
+- Seguimos a la espera de la parte de Brais de hacer un mergue a la main para comprobar si tenemos que cambiar algo. 
+- Actualizar los estilos de nuestras pantallas para que fuese lo más parecido al estilo propuesto por brais.
