@@ -136,3 +136,8 @@ Actualmente, tras grabar el audio, el proceso de subida a la base de datos puede
 - Hoy le pido a brais que te de acceso al repo del proyecto.
 - Creada una lista con las preguntas claves para que la grabación sea de mayor calidad. 
 
+### 11-17 de noviembre
+- Brais te ha mandado invitación.
+- Editado el Ante proyecto por las cosas que al final no se implementan. 
+- He añadido un PDF con todas las librerías que se utilizan en Fisiomap, elaborado con la ayuda de la IA. Le pasé todo el archivo pubspec.yaml y le pedí: “Quiero que me expliques y me hagas una tabla con toda la información de estas librerías”. La IA reconoció correctamente cuáles son las librerías que hemos implementado nosotros, como las de reproducción de audio, visualización de HTML y pumpun_core, pero el resto me resultan totalmente nuevas.
+- 
