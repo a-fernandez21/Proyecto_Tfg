@@ -132,3 +132,7 @@ Actualmente, tras grabar el audio, el proceso de subida a la base de datos puede
 - Esperando a que configuren el archivo GoogleServices para poder probarlo en ios, ya que la grabadora donde más suele fallar es en IOS por temas de permiso y carpetas.
 - Seguimos a la espera de la parte de Brais de hacer un mergue a la main para comprobar si tenemos que cambiar algo. 
 - Actualizar los estilos de nuestras pantallas para que fuese lo más parecido al estilo propuesto por brais.
+- Implementación de 3 wizards para explicar al usuario como utilizar la aplicación la primera vez que la instala.
+- Hoy le pido a brais que te de acceso al repo del proyecto.
+- Creada una lista con las preguntas claves para que la grabación sea de mayor calidad. 
+
