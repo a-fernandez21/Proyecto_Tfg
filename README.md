@@ -113,7 +113,7 @@ Actualmente, tras grabar el audio, el proceso de subida a la base de datos puede
 - [adv_basics](https://github.com/a-fernandez21/adv_basics.git)
 - [app_ahorro](https://github.com/a-fernandez21/app_ahorro.git)
 - [TODO'S](https://github.com/a-fernandez21/TODO-S.git)
-- [meals] (https://github.com/a-fernandez21/meals.git)
+- [meals](https://github.com/a-fernandez21/meals.git)
 - [shopping_list](https://github.com/a-fernandez21/shopping_list.git)
 
 ---
