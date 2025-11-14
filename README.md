@@ -140,4 +140,9 @@ Actualmente, tras grabar el audio, el proceso de subida a la base de datos puede
 - Brais te ha mandado invitación.
 - Editado el Ante proyecto por las cosas que al final no se implementan. 
 - He añadido un PDF con todas las librerías que se utilizan en Fisiomap, elaborado con la ayuda de la IA. Le pasé todo el archivo pubspec.yaml y le pedí: “Quiero que me expliques y me hagas una tabla con toda la información de estas librerías”. La IA reconoció correctamente cuáles son las librerías que hemos implementado nosotros, como las de reproducción de audio, visualización de HTML y pumpun_core, pero el resto me resultan totalmente nuevas.
-- 
+- Hecha la memoria final.
+- Añadido el video demostrativo de como funciona la app
+- Añadido el ante proyecto final y dejo el archivo AnteProyecto(2) porque está la parte del agente, backend que al final no se implementó. 
+-[Video_Demostrativo_Fisiomap_app](https://drive.google.com/file/d/1y9oTnFIqzo5xIzCjNVqFG4smAlPnGphe/view?usp=sharing)
+
+
